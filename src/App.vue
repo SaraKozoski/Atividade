@@ -56,7 +56,7 @@ function reiniciar() {
 
 <style scoped>
 .info {
-  background-color: rgb(46, 46, 75);
+  background-color: rgb(0, 0, 0);
   padding: 20px 30px;
   color: rgb(183, 210, 219);
   border-radius: 10px;
@@ -66,5 +66,10 @@ h1 {
   color: white;
   font-weight: bold;
   font-size: 1.5em;
+} 
+
+button{
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
 }
 </style>
